@@ -4,7 +4,7 @@ This project is a simple HTML-based webpage that provides an overview of the lif
 <h2>Key Features:</h2>
 **Title and Header:** The page is titled "Srinivasa Ramanujan - Wikipedia" to give it a Wikipedia-like feel. The main header highlights the name "Srinivasa Ramanujan" in bold.<br>
 
-Introduction and Article Content: The introductory section provides an overview of Ramanujan's life and his significant contributions to mathematics, such as the Ramanujan sum, theta functions, and his groundbreaking work in number theory.<br>
+**Introduction and Article Content:** The introductory section provides an overview of Ramanujan's life and his significant contributions to mathematics, such as the Ramanujan sum, theta functions, and his groundbreaking work in number theory.<br>
 
 **Blockquote Section:** A blockquote is used to display a redirection note, providing guidance on how Ramanujan should be referred to and offering a link to the Ramanujan (disambiguation) page.<br>
 
@@ -29,5 +29,5 @@ Basic formatting tags like b, i, and br for emphasis and line breaks.<br>
 **Styling with CSS:** You can enhance the presentation of this project by adding CSS for better font choices, colors, and layout.<br>
 **JavaScript:** Add interactive elements or features like tooltips and popup modals to give more information on the linked content.<br>
 **Media and Images:** Include relevant images of Ramanujan, diagrams, and other media to enrich the user experience.<br>
-**Conclusion:**<br>
+<h2>Conclusion:</h2>
 This project is ideal for students or individuals who want to create a basic, educational webpage using HTML. It showcases essential HTML tags and structures in a functional way to present biographical data.
