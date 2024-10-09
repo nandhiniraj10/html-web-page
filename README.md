@@ -1,7 +1,7 @@
-**Project Description:** <br>
+<h2>Project Description:</h2>
 This project is a simple HTML-based webpage that provides an overview of the life and contributions of the renowned Indian mathematician Srinivasa Ramanujan. It is designed to resemble a Wikipedia article with a structured and clean layout. The webpage includes textual content, links to related Wikipedia pages, a table for structured data, and important biographical details about Ramanujan's life and achievements.<br>
 
-**Key Features:** <br>
+<h2>Key Features:</h2>
 **Title and Header:** The page is titled "Srinivasa Ramanujan - Wikipedia" to give it a Wikipedia-like feel. The main header highlights the name "Srinivasa Ramanujan" in bold.<br>
 
 Introduction and Article Content: The introductory section provides an overview of Ramanujan's life and his significant contributions to mathematics, such as the Ramanujan sum, theta functions, and his groundbreaking work in number theory.<br>
